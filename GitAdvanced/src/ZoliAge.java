@@ -1,5 +1,5 @@
 public class ZoliAge {
-    public void count (int month) {
+    public void countTheMonth (int month) {
         System.out.println(month);
     }
 }
