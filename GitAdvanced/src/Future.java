@@ -1,8 +1,6 @@
 public class Future {
-    public static void main(String[] args) {
-
-    }
-    public void future() {
-        System.out.println("Capricorn");
+    private String toPrint = "Capricorn";
+    public void future(String toPrint) {
+        System.out.println(toPrint);
     }
 }
