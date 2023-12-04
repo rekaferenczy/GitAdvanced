@@ -1,5 +1,5 @@
 public class ZoliAge {
-    public void count (int month) {
-        System.out.println(month1);
+    public void count (int parameter) {
+        System.out.println("Counting the countless " + parameter);
     }
 }
