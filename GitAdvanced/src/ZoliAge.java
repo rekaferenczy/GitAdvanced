@@ -1,6 +1,5 @@
 public class ZoliAge {
-    
-    public void count () {
-        System.out.println(17);
+    public void count (int a) {
+        System.out.println(a);
     }
 }
