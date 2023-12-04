@@ -1,6 +1,5 @@
 public class Future {
-    private String toPrint = "Capricorn";
-    public void future(String toPrint) {
-        System.out.println(toPrint);
+    public void future(String chineseHoroscope) {
+        System.out.println(chineseHoroscope);
     }
 }
